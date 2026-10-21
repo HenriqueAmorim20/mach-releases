@@ -43,7 +43,11 @@
         "pt": "Controle de tráfego aéreo por voz.",
         "en": "Voice air traffic control."
       },
-      "release": null
+      "release": null,
+      "category": {
+        "pt": "Controle de tráfego",
+        "en": "Air traffic control"
+      }
     }
   ]
 }
