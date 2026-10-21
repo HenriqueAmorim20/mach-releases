@@ -1,0 +1,26 @@
+{
+  "format": 1,
+  "hub": null,
+  "products": [
+    {
+      "id": "mach-fps",
+      "name": "mach fps",
+      "executable": "MachFps.Host.exe",
+      "summary": {
+        "pt": "Ajuste automático de TLOD, OLOD e nuvens pelo FPS.",
+        "en": "Automatic TLOD, OLOD and clouds by FPS."
+      },
+      "release": null
+    },
+    {
+      "id": "mach-atc",
+      "name": "mach atc",
+      "executable": "MachAtc.Host.exe",
+      "summary": {
+        "pt": "Controle de tráfego aéreo por voz.",
+        "en": "Voice air traffic control."
+      },
+      "release": null
+    }
+  ]
+}
