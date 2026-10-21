@@ -29,6 +29,10 @@
           "pt": "Ajusta TLOD, OLOD e nuvens em voo pelo FPS e pela fase de voo.\nAlvo em FPS na tela, com fator de geração de quadros.\nAlvo automático quando o PC não alcança o alvo nem no mínimo.\nPainel dentro do simulador, na toolbar.\nInstala o programa em pasta fixa e guarda a versão anterior.",
           "en": "Adjusts TLOD, OLOD and clouds in flight by FPS and flight phase.\nOn-screen FPS target, with a frame generation factor.\nAutomatic target when the PC cannot reach the target even at the minimum.\nIn-sim panel on the toolbar.\nInstalls the program in a fixed folder and keeps the previous version."
         }
+      },
+      "category": {
+        "pt": "Desempenho",
+        "en": "Performance"
       }
     },
     {
