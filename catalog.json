@@ -1,6 +1,13 @@
 {
   "format": 1,
-  "hub": null,
+  "hub": {
+    "version": "1.0.0",
+    "package": {
+      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.0/MachHubSetup.exe",
+      "size": 66586600,
+      "sha256": "a3c65e2b2d6d39eae50e35b897ad2ca94604edcf6f9cd59ebdf23701c650abb1"
+    }
+  },
   "products": [
     {
       "id": "mach-fps",
