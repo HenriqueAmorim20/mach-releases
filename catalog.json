@@ -10,7 +10,19 @@
         "pt": "Ajuste automático de TLOD, OLOD e nuvens pelo FPS.",
         "en": "Automatic TLOD, OLOD and clouds by FPS."
       },
-      "release": null
+      "release": {
+        "version": "0.1.0",
+        "minHub": "1.0.0",
+        "package": {
+          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-fps-v0.1.0/mach-fps-0.1.0.zip",
+          "size": 46179628,
+          "sha256": "24c01e8e0a229ebda7b3f6e5ac3e419ec44c780eb89494bd8992743a979ecf27"
+        },
+        "notes": {
+          "pt": "Ajusta TLOD, OLOD e nuvens em voo pelo FPS e pela fase de voo.\nAlvo em FPS na tela, com fator de geração de quadros.\nAlvo automático quando o PC não alcança o alvo nem no mínimo.\nPainel dentro do simulador, na toolbar.\nInstala o programa em pasta fixa e guarda a versão anterior.",
+          "en": "Adjusts TLOD, OLOD and clouds in flight by FPS and flight phase.\nOn-screen FPS target, with a frame generation factor.\nAutomatic target when the PC cannot reach the target even at the minimum.\nIn-sim panel on the toolbar.\nInstalls the program in a fixed folder and keeps the previous version."
+        }
+      }
     },
     {
       "id": "mach-atc",
