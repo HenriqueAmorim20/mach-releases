@@ -52,7 +52,8 @@
       "category": {
         "pt": "Controle de tráfego",
         "en": "Air traffic control"
-      }
+      },
+      "displayName": "Mach ATC"
     }
   ]
 }
