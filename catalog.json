@@ -1,11 +1,15 @@
 {
   "format": 1,
   "hub": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "package": {
-      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.1/MachHubSetup.exe",
-      "size": 66586813,
-      "sha256": "5074d20a3b04d56b718ab9d032131d8ceabaf441d5df6808e5f9a82b4851fa47"
+      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.2/MachHubSetup.exe",
+      "size": 66595253,
+      "sha256": "0aee6c7642efd3ccf9fbcb149ce14ba7ba1caaeb326763ad59c144da9dd124cf"
+    },
+    "notes": {
+      "pt": "Aviso ao abrir quando há versão nova do Mach Hub.\nProgresso da atualização em MB e por etapa.\nNomes Mach Hub, Mach FPS e Mach ATC.",
+      "en": "Notice on launch when a new Mach Hub version is available.\nUpdate progress in MB and by step.\nNames Mach Hub, Mach FPS and Mach ATC."
     }
   },
   "products": [
