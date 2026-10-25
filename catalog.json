@@ -1,15 +1,15 @@
 {
   "format": 1,
   "hub": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "package": {
-      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.2/MachHubSetup.exe",
-      "size": 66595253,
-      "sha256": "0aee6c7642efd3ccf9fbcb149ce14ba7ba1caaeb326763ad59c144da9dd124cf"
+      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.3/MachHubSetup.exe",
+      "size": 66607550,
+      "sha256": "8357d8a20d09c01a0c3d8ddedd6bec05e91bf7300e1741a448e97ee1a6f7c33d"
     },
     "notes": {
-      "pt": "Aviso ao abrir quando há versão nova do Mach Hub.\nProgresso da atualização em MB e por etapa.\nNomes Mach Hub, Mach FPS e Mach ATC.",
-      "en": "Notice on launch when a new Mach Hub version is available.\nUpdate progress in MB and by step.\nNames Mach Hub, Mach FPS and Mach ATC."
+      "pt": "Ícones nas ações de instalar, atualizar e remover.\nRemover em vermelho, com confirmação no próprio painel.\nMotivo na tela quando uma ação está desativada.",
+      "en": "Icons on the install, update and remove actions.\nRemove in red, with confirmation in the panel itself.\nReason on screen when an action is disabled."
     }
   },
   "products": [
