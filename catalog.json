@@ -1,15 +1,15 @@
 {
   "format": 1,
   "hub": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "package": {
-      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.3/MachHubSetup.exe",
-      "size": 66607550,
-      "sha256": "8357d8a20d09c01a0c3d8ddedd6bec05e91bf7300e1741a448e97ee1a6f7c33d"
+      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.4/MachHubSetup.exe",
+      "size": 66610414,
+      "sha256": "3ca060cd1b0bca27606fdf25a6a75337761903f2cfec5946b13f86cf6e8af6f2"
     },
     "notes": {
-      "pt": "Ícones nas ações de instalar, atualizar e remover.\nRemover em vermelho, com confirmação no próprio painel.\nMotivo na tela quando uma ação está desativada.",
-      "en": "Icons on the install, update and remove actions.\nRemove in red, with confirmation in the panel itself.\nReason on screen when an action is disabled."
+      "pt": "Instalar, atualizar e remover pedem confirmação numa janela própria.\r\nProgresso e resultado da ação aparecem nessa janela.",
+      "en": "Install, update and remove ask for confirmation in their own window.\r\nProgress and result of the action show in that window."
     }
   },
   "products": [
