@@ -48,7 +48,19 @@
         "pt": "Controle de tráfego aéreo por voz.",
         "en": "Voice air traffic control."
       },
-      "release": null,
+      "release": {
+        "version": "0.1.0",
+        "minHub": "1.0.0",
+        "package": {
+          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.1.0/mach-atc-0.1.0.zip",
+          "size": 98950569,
+          "sha256": "ed722de1de69fe3070cc84014d5e3272f359a1e4452608dfc835fcbe196c8ae6"
+        },
+        "notes": {
+          "pt": "Primeira versão no Mach Hub.\nATC por voz em pt-BR e en, do Solo à chegada, com o painel dentro do MSFS 2024.\nO simulador inicia o Mach ATC sem janela e o fecha junto com ele.\nO painel conecta sozinho, sem configuração.\nOs modelos de voz não vêm no pacote. Eles ficam em %LOCALAPPDATA%\\Mach Software\\mach atc\\models.",
+          "en": "First release on Mach Hub.\nVoice ATC in pt-BR and en, from ground to arrival, with the panel inside MSFS 2024.\nThe simulator starts Mach ATC with no window and closes it along with itself.\nThe panel connects on its own, with no setup.\nVoice models are not in the package. They live in %LOCALAPPDATA%\\Mach Software\\mach atc\\models."
+        }
+      },
       "category": {
         "pt": "Controle de tráfego",
         "en": "Air traffic control"
