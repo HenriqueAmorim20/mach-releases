@@ -1,15 +1,15 @@
 {
   "format": 1,
   "hub": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "package": {
-      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.4/MachHubSetup.exe",
-      "size": 66610414,
-      "sha256": "3ca060cd1b0bca27606fdf25a6a75337761903f2cfec5946b13f86cf6e8af6f2"
+      "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-hub-v1.0.5/MachHubSetup.exe",
+      "size": 66610568,
+      "sha256": "cd299e6c4a2b4e8f3dcb0e277b9280d37f42f536ddaaa3aa7acaf92a24827513"
     },
     "notes": {
-      "pt": "Instalar, atualizar e remover pedem confirmação numa janela própria.\r\nProgresso e resultado da ação aparecem nessa janela.",
-      "en": "Install, update and remove ask for confirmation in their own window.\r\nProgress and result of the action show in that window."
+      "pt": "Novidades longas rolam dentro da janela de instalar e atualizar, com os botões sempre à vista.",
+      "en": "Long release notes scroll inside the install and update window, with the buttons always in view."
     }
   },
   "products": [
