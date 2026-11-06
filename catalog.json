@@ -49,16 +49,16 @@
         "en": "Voice air traffic control."
       },
       "release": {
-        "version": "0.1.0",
+        "version": "0.2.0",
         "minHub": "1.0.0",
         "package": {
-          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.1.0/mach-atc-0.1.0.zip",
-          "size": 98950569,
-          "sha256": "ed722de1de69fe3070cc84014d5e3272f359a1e4452608dfc835fcbe196c8ae6"
+          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.2.0/mach-atc-0.2.0.zip",
+          "size": 100183481,
+          "sha256": "2ed3781d5df865e80142da10475e94828e6674f2c06d999c318601de6daba3bb"
         },
         "notes": {
-          "pt": "Primeira versão no Mach Hub.\nATC por voz em pt-BR e en, do Solo à chegada, com o painel dentro do MSFS 2024.\nO simulador inicia o Mach ATC sem janela e o fecha junto com ele.\nO painel conecta sozinho, sem configuração.\nOs modelos de voz não vêm no pacote. Eles ficam em %LOCALAPPDATA%\\Mach Software\\mach atc\\models.",
-          "en": "First release on Mach Hub.\nVoice ATC in pt-BR and en, from ground to arrival, with the panel inside MSFS 2024.\nThe simulator starts Mach ATC with no window and closes it along with itself.\nThe panel connects on its own, with no setup.\nVoice models are not in the package. They live in %LOCALAPPDATA%\\Mach Software\\mach atc\\models."
+          "pt": "Painel novo, com as abas Voo e Comms, lista de ações e drawer da frequência.\nSID, transição e STAR pela pista em uso, com os nomes falados como na carta.\nMudança de nível em cruzeiro pelo cartão Próximo, com os níveis válidos para o rumo.\nDescida e aproximação pelo plano, do ponto de descida até o Solo do destino.\nO ATC cobra quando o avião não sobe, não desce ou sai da rota e da pista autorizadas.\nTáxi progressivo, posição pela companhia e ponte de embarque pelo simulador.\nFrequências de Centro fora do Brasil e aviso de aeródromo sem órgão.\nVozes do ATC por órgão, com efeito de rádio, e sons de confirmação.\nO reconhecimento aceita mais formas certas de colação.\nIdioma da interface e do ATC escolhidos nas configurações.\nPTT e atalho do copiloto gravados pelo painel.\nO ATC espera o rádio ligar e a carga inicial terminar antes de chamar.",
+          "en": "New panel, with Flight and Comms tabs, an action list and a frequency drawer.\nSID, transition and STAR by the runway in use, with names spoken as on the chart.\nCruise level changes from the Next card, with the valid levels for the heading.\nDescent and approach by the flight plan, from top of descent to destination Ground.\nATC follows up when the aircraft does not climb, does not descend or leaves the cleared route or runway.\nProgressive taxi, stand by airline and jet bridge from the simulator.\nCenter frequencies outside Brazil and a notice for airports without a controller.\nATC voices by facility, with radio effect, and confirmation sounds.\nSpeech recognition accepts more correct readback forms.\nInterface and ATC language chosen in settings.\nPTT and copilot shortcut recorded from the panel.\nATC waits for the radio to be on and the initial load to finish before calling."
         }
       },
       "category": {
