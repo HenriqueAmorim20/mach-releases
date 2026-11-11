@@ -49,16 +49,16 @@
         "en": "Voice air traffic control."
       },
       "release": {
-        "version": "0.2.0",
+        "version": "0.3.0",
         "minHub": "1.0.0",
         "package": {
-          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.2.0/mach-atc-0.2.0.zip",
-          "size": 100183481,
-          "sha256": "2ed3781d5df865e80142da10475e94828e6674f2c06d999c318601de6daba3bb"
+          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.3.0/mach-atc-0.3.0.zip",
+          "size": 100888279,
+          "sha256": "c8fde38f7f5be8a910e5f30f73560a5132d080598d1ab8b097b10dff38aac508"
         },
         "notes": {
-          "pt": "Painel novo, com as abas Voo e Comms, lista de ações e drawer da frequência.\nSID, transição e STAR pela pista em uso, com os nomes falados como na carta.\nMudança de nível em cruzeiro pelo cartão Próximo, com os níveis válidos para o rumo.\nDescida e aproximação pelo plano, do ponto de descida até o Solo do destino.\nO ATC cobra quando o avião não sobe, não desce ou sai da rota e da pista autorizadas.\nTáxi progressivo, posição pela companhia e ponte de embarque pelo simulador.\nFrequências de Centro fora do Brasil e aviso de aeródromo sem órgão.\nVozes do ATC por órgão, com efeito de rádio, e sons de confirmação.\nO reconhecimento aceita mais formas certas de colação.\nIdioma da interface e do ATC escolhidos nas configurações.\nPTT e atalho do copiloto gravados pelo painel.\nO ATC espera o rádio ligar e a carga inicial terminar antes de chamar.",
-          "en": "New panel, with Flight and Comms tabs, an action list and a frequency drawer.\nSID, transition and STAR by the runway in use, with names spoken as on the chart.\nCruise level changes from the Next card, with the valid levels for the heading.\nDescent and approach by the flight plan, from top of descent to destination Ground.\nATC follows up when the aircraft does not climb, does not descend or leaves the cleared route or runway.\nProgressive taxi, stand by airline and jet bridge from the simulator.\nCenter frequencies outside Brazil and a notice for airports without a controller.\nATC voices by facility, with radio effect, and confirmation sounds.\nSpeech recognition accepts more correct readback forms.\nInterface and ATC language chosen in settings.\nPTT and copilot shortcut recorded from the panel.\nATC waits for the radio to be on and the initial load to finish before calling."
+          "pt": "Tráfego de IA no solo e no ar: partidas, chegadas com pouso e saída de pista, desvio no táxi e esteira de turbulência.\nPátios com aviões estacionados no simulador, com mix de companhias por aeroporto e densidade nas configurações.\nATIS com letra, voz em laço na sintonia e cartão no painel, com aviso de letra nova.\nArremetida pelo piloto e pela Torre, com a perda publicada no painel.\nEsperas pelo fixo, dadas pelo APP, e backtrack autorizado pela Torre.\nRepita e correção na fala do piloto, com cotejo pela instrução em aberto.\nTransponder conferido e cobrado.\nLista de frequências do voo e METAR no cartão do aeródromo, formatado ou cru.\nNomes de taxiway pelas cartas do AIP e pelo OpenStreetMap, com seção Sobre nas configurações.\nPré-voo com início manual do ATC e confirmação ao pausar.\nChiado do rádio mais forte e prioridade de GPU para o reconhecimento de voz.\nCorreções de rota, nível cobrado, microfone padrão e troca de carga no Airbus padrão.",
+          "en": "AI traffic on the ground and in the air: departures, arrivals with landing and runway exit, taxi avoidance and wake turbulence.\nParked aircraft on the apron in the sim, with an airline mix per airport and density in settings.\nATIS with information letter, looping voice on tune and a panel card, with a notice for a new letter.\nGo-around by the pilot and by the Tower, with the loss shown on the panel.\nHolds at a fix, issued by Approach, and backtrack cleared by the Tower.\nSay again and corrections in pilot speech, with readback checked against the open instruction.\nTransponder checked and chased.\nFlight frequency list and METAR on the airport card, formatted or raw.\nTaxiway names from AIP charts and OpenStreetMap, with an About section in settings.\nPreflight with manual ATC start and confirmation when pausing.\nStronger radio static and GPU priority for speech recognition.\nFixes for routes, level calls, default microphone and payload changes in the default Airbus."
         }
       },
       "category": {
