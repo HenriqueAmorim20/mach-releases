@@ -49,16 +49,16 @@
         "en": "Voice air traffic control."
       },
       "release": {
-        "version": "0.3.1",
+        "version": "0.3.2",
         "minHub": "1.0.0",
         "package": {
-          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.3.1/mach-atc-0.3.1.zip",
-          "size": 104104052,
-          "sha256": "392834640705fc967ccd58cf51c51c7eaca45d6a5d13ff03089864c2b6646ab5"
+          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.3.2/mach-atc-0.3.2.zip",
+          "size": 104112173,
+          "sha256": "984b64d0c1bd87d0c95dd9273305023717084b7f2dd87a62a5f98de3eee3ce9f"
         },
         "notes": {
-          "pt": "Centro em todo o mundo, pelos limites do simulador, com telefonia mundial das companhias.\nTráfego de IA em rota, com Centros, níveis autorizados e pátio de destino com pintura de companhia.\nRetorno à origem como chegada, com fraseologia própria e perna nova ao estacionar.\nCruzamento de pista sem parada, paralelas sem vão e pista mínima por tipo de avião.\nAproximação visual, aproximação sem ILS e chegada em aeródromo sem órgão.\nSID e STAR do plano que o simulador não tem, com aviso e substituta.\nDescida via STAR até o IAF e Torre na final curva.\nArremetida da IA, alternado e desvio na terceira arremetida.\nCotejo mais rigoroso, com correção, dígito a mais e valores trocados.\nPedidos do piloto: aguarde, desconsidere, como me recebe e retorno.\nPainel com configurações por categoria, avisos do host e tentar de novo no pré-voo.\nCorreções de memória, de prazos na pausa do simulador e de falhas que derrubavam o host.",
-          "en": "Center coverage worldwide, from the simulator boundaries, with worldwide airline telephony.\nEn route AI traffic, with Centers, cleared levels and destination aprons with airline liveries.\nReturn to origin handled as an arrival, with its own phraseology and a new leg after parking.\nRunway crossings without stopping, parallels without gaps and minimum runway length per aircraft type.\nVisual approaches, non ILS approaches and arrivals at uncontrolled aerodromes.\nFlight plan SIDs and STARs the simulator lacks, with a warning and a substitute.\nDescend via STAR to the IAF and Tower handoff on curved finals.\nAI go arounds, alternates and diversion after the third go around.\nStricter readbacks, including corrections, extra digits and swapped values.\nPilot requests: stand by, disregard, radio check and return.\nPanel settings by category, host notices and retry in the preflight.\nFixes for memory use, timers during sim pause and failures that stopped the host."
+          "pt": "Centro pelos limites do simulador já no começo do voo, sem esperar a posição.\nDescida via STAR que nunca fica abaixo do IAF.\nTransição da SID do plano mantida quando o simulador não tem a SID.\nPista de partida separada quando a pista em uso é só de pouso.\nPassagem para a Torre só com o avião alinhado com a final e na altura da aproximação.\nNome do órgão sem o papel repetido, como Torre Torre.\nPush pelo lado livre, cotejo do táxi em inglês mais tolerante e fila de partida que anda no alinhamento.",
+          "en": "Center from the simulator boundaries from the start of the flight, without waiting for the position.\nDescend via STAR never goes below the IAF.\nThe flight plan SID transition is kept when the simulator lacks the SID.\nA separate departure runway when the runway in use is landing only.\nHandoff to Tower only when aligned with the final and at approach height.\nStation names without the role repeated, as in Tower Tower.\nPushback toward the free side, more tolerant English taxi readbacks and a departure queue that moves on line up."
         }
       },
       "category": {
