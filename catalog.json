@@ -49,16 +49,16 @@
         "en": "Voice air traffic control."
       },
       "release": {
-        "version": "0.3.2",
+        "version": "0.3.3",
         "minHub": "1.0.0",
         "package": {
-          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.3.2/mach-atc-0.3.2.zip",
-          "size": 104112173,
-          "sha256": "984b64d0c1bd87d0c95dd9273305023717084b7f2dd87a62a5f98de3eee3ce9f"
+          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.3.3/mach-atc-0.3.3.zip",
+          "size": 104150092,
+          "sha256": "fa970ebc232ee342b80ad0c0dcee548064af88a154d31cb1581f74de003829d2"
         },
         "notes": {
-          "pt": "Centro pelos limites do simulador já no começo do voo, sem esperar a posição.\nDescida via STAR que nunca fica abaixo do IAF.\nTransição da SID do plano mantida quando o simulador não tem a SID.\nPista de partida separada quando a pista em uso é só de pouso.\nPassagem para a Torre só com o avião alinhado com a final e na altura da aproximação.\nNome do órgão sem o papel repetido, como Torre Torre.\nPush pelo lado livre, cotejo do táxi em inglês mais tolerante e fila de partida que anda no alinhamento.",
-          "en": "Center from the simulator boundaries from the start of the flight, without waiting for the position.\nDescend via STAR never goes below the IAF.\nThe flight plan SID transition is kept when the simulator lacks the SID.\nA separate departure runway when the runway in use is landing only.\nHandoff to Tower only when aligned with the final and at approach height.\nStation names without the role repeated, as in Tower Tower.\nPushback toward the free side, more tolerant English taxi readbacks and a departure queue that moves on line up."
+          "pt": "Desvio em rota: peça mudança de destino para o alternado ou de volta à origem, e o ATC reautoriza com direto a um fixo da chegada.\nFala do desvio pela norma de cada região: reautorizado no Brasil, recleared to na ICAO e cleared to airport na FAA.\nPartidas do tráfego pela linha principal de circulação do pátio.\nSaídas de pista que terminavam sobre outra pista saem da lista.\nPátio com tráfego mesmo quando o simulador só tem pinturas Default.\nFraseologia pela região do órgão que fala, e órgãos e indicativos corretos fora do Brasil.\nClima na fala do ATC.\nTráfego de IA que não fica preso em prazos, fases ou pistas erradas.\nRetorno à origem mesmo sem uma saída definida.\nEstados do painel que travavam ou sumiam corrigidos, e a instrução repetida volta a ser destacada.\nPortão de carga e cargas parciais em voo.",
+          "en": "En route diversion: request a change of destination to the alternate or back to the origin, and ATC reclears you direct to an arrival fix.\nDiversion phrases follow each region's rules: reautorizado in Brazil, recleared to under ICAO and cleared to airport under the FAA.\nTraffic departures follow the main apron circulation line.\nRunway exits that ended on another runway are dropped.\nApron traffic even when the simulator only has Default liveries.\nPhraseology follows the region of the station speaking, with correct stations and callsigns outside Brazil.\nWeather in ATC speech.\nAI traffic no longer gets stuck on deadlines, phases or wrong runways.\nReturn to origin works without a set departure.\nPanel states that froze or disappeared are fixed, and a repeated instruction is highlighted again.\nCargo door and partial loads in flight."
         }
       },
       "category": {
