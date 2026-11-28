@@ -49,16 +49,16 @@
         "en": "Voice air traffic control."
       },
       "release": {
-        "version": "0.3.3",
+        "version": "0.3.4",
         "minHub": "1.0.0",
         "package": {
-          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.3.3/mach-atc-0.3.3.zip",
-          "size": 104150092,
-          "sha256": "fa970ebc232ee342b80ad0c0dcee548064af88a154d31cb1581f74de003829d2"
+          "url": "https://github.com/HenriqueAmorim20/mach-releases/releases/download/mach-atc-v0.3.4/mach-atc-0.3.4.zip",
+          "size": 104275886,
+          "sha256": "9bc2863c8243442bae7870e3fa25e45fa9b7efa5bbce096e2a10df0ea69151c6"
         },
         "notes": {
-          "pt": "Desvio em rota: peça mudança de destino para o alternado ou de volta à origem, e o ATC reautoriza com direto a um fixo da chegada.\nFala do desvio pela norma de cada região: reautorizado no Brasil, recleared to na ICAO e cleared to airport na FAA.\nPartidas do tráfego pela linha principal de circulação do pátio.\nSaídas de pista que terminavam sobre outra pista saem da lista.\nPátio com tráfego mesmo quando o simulador só tem pinturas Default.\nFraseologia pela região do órgão que fala, e órgãos e indicativos corretos fora do Brasil.\nClima na fala do ATC.\nTráfego de IA que não fica preso em prazos, fases ou pistas erradas.\nRetorno à origem mesmo sem uma saída definida.\nEstados do painel que travavam ou sumiam corrigidos, e a instrução repetida volta a ser destacada.\nPortão de carga e cargas parciais em voo.",
-          "en": "En route diversion: request a change of destination to the alternate or back to the origin, and ATC reclears you direct to an arrival fix.\nDiversion phrases follow each region's rules: reautorizado in Brazil, recleared to under ICAO and cleared to airport under the FAA.\nTraffic departures follow the main apron circulation line.\nRunway exits that ended on another runway are dropped.\nApron traffic even when the simulator only has Default liveries.\nPhraseology follows the region of the station speaking, with correct stations and callsigns outside Brazil.\nWeather in ATC speech.\nAI traffic no longer gets stuck on deadlines, phases or wrong runways.\nReturn to origin works without a set departure.\nPanel states that froze or disappeared are fixed, and a repeated instruction is highlighted again.\nCargo door and partial loads in flight."
+          "pt": "Passagem para a Torre ao alinhar com a final, também em aproximação curva como a de Zurique, visual e circuito.\nTeto da passagem para a Torre ligado à rampa de 3 graus, medido também sobre o campo em aeródromo alto.\nNome da aproximação sem o 0 quando não há sufixo, como ILS em vez de ILS 0.\nEspera de esteira na decolagem com alinhar e aguardar quando não há chegada próxima.\nO ATC chama você quando a pista libera depois de number two.\nDecolagem imediata com tráfego na final: cleared for immediate take-off, no delay na FAA e decolagem imediata no Brasil.\nCompanhias do mundo todo falam o nome, como Swiss e Austrian, pela tabela da FAA.\nCentro sem nome no simulador ganha o nome real pela AIP, como Swiss Radar, em 36 FIRs da Europa.\nPátio do tráfego sem falha falsa na primeira carga, e com o motivo no painel e no log quando falha.\nAvião que alinha atrás de pesado conta a esteira do líder que ainda vai correr.",
+          "en": "Handoff to Tower once aligned with the final, also on curved approaches like Zurich, visual approaches and circuits.\nThe Tower handoff ceiling follows the 3 degree path and is also measured above the field at high airports.\nApproach names without the 0 when there is no suffix, as ILS instead of ILS 0.\nWake turbulence wait on departure with line up and wait when no arrival is close.\nATC calls you when the runway is free after number two.\nImmediate take-off with traffic on final: cleared for immediate take-off, no delay under the FAA and decolagem imediata in Brazil.\nAirlines worldwide use their spoken name, like Swiss and Austrian, from the FAA table.\nA center the simulator does not name gets its real call sign from the AIP, like Swiss Radar, in 36 European FIRs.\nApron traffic no longer fails falsely on the first load, and shows the reason in the panel and the log when it fails.\nAn aircraft lining up behind a heavy counts the wake of a leader that has yet to roll."
         }
       },
       "category": {
